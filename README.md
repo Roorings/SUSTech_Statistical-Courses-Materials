@@ -5,3 +5,6 @@ This repository contains the course materials of many statistical courses opened
 ### Ordinary Differential Equations A | MA201a | 2020Spring
 - Exercise class notes
 - Course notes
+
+### Network Science and Computing | STA404 | 2021Spring
+- Final summary
