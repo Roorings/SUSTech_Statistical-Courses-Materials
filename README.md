@@ -3,10 +3,8 @@
 This repository contains the course materials of many statistical courses opened by Southern University of Science and Technology.
 
 ### Ordinary Differential Equations A | MA201a | 2020Spring
-常微分方程A
 - Exercise class notes
 - Course notes
 
 ### Network Science and Computing | STA404 | 2021Spring
-网络科学与计算
 - Final summary
