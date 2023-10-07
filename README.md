@@ -28,3 +28,15 @@ This repository contains the course materials of many statistical courses opened
   - Chapter 3-4
   - Chapter 5-6
   - Chapter 7-8
+  - Chapter 9
+
+高等数学II A ｜ MA101B ｜ 2019Spring
+- Course notes
+  - Chapter 10.1-10.7
+  - Chapter 10.8-10.10
+  - Chapter 11-12
+  - Chapter 13
+  - Chapter 14.1-14.3
+  - Chapter 14.4-14.9
+  - Chapter 15
+  - Chapter 16
