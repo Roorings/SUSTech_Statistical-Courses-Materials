@@ -26,3 +26,5 @@ This repository contains the course materials of many statistical courses opened
 - Course notes
   - Chapter 2
   - Chapter 3-4
+  - Chapter 5-6
+  - Chapter 7-8
