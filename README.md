@@ -2,23 +2,12 @@
 
 This repository contains the course materials of many statistical courses opened by Southern University of Science and Technology.
 
-### Ordinary Differential Equations A
-常微分方程 A ｜ MA201A | 2020Spring
-- Exercise class notes
+
+### Applied Stochastic Processes
+应用随机过程 ｜ MA208 ｜ 2020Spring
 - Course notes
-  
-
-### Network Science and Computing
-网络科学与计算 ｜ STA404 | 2021Spring
-- Final summary
-  
-
-### Linear Algebral
-线性代数I ｜ MA103A | 2018Fall
-- Course notes
-
-线性代数II ｜ MA104B | 2019Spring
-- Midterm review
+  - Chapter 1-3
+  - Chapter 4-6
 
 
 ### Calculus
@@ -40,14 +29,40 @@ This repository contains the course materials of many statistical courses opened
   - Chapter 14.4-14.9
   - Chapter 15
   - Chapter 16
+ 
 
-
-### Applied Stochastic Processes
-应用随机过程 ｜ MA208 ｜ 2020Spring
+### Discrete Mathematics
+离散数学 ｜ MA205 ｜ 2020Spring
 - Course notes
-  - Chapter 1-3
-  - Chapter 4-6
+  - Chapter 1-4
+  - Chapter 5-6
 
+
+### Linear Algebral
+线性代数I ｜ MA103A | 2018Fall
+- Course notes
+
+线性代数II ｜ MA104B | 2019Spring
+- Midterm review
+
+
+### Network Science and Computing
+网络科学与计算 ｜ STA404 | 2021Spring
+- Final summary
+
+
+### Ordinary Differential Equations A
+常微分方程 A ｜ MA201A | 2020Spring
+- Exercise class notes
+- Course notes
+
+
+### Probability
+概率论 ｜ MA215 ｜ 2019Autumn
+- Course notes
+    - Chapter 1-4
+    - Chapter 5
+- Exercise class notes
 
 
 ### Real Analysis
@@ -57,11 +72,3 @@ This repository contains the course materials of many statistical courses opened
   - Chapter 2-3
 - Summary
 
-
-### Probability
-概率论 ｜ MA215 ｜ 2019Autumn
-- Course notes
-    - Chapter 1-4
-    - Chapter 5
-- Exercise class notes
- 
