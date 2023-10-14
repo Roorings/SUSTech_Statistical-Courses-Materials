@@ -56,4 +56,12 @@ This repository contains the course materials of many statistical courses opened
   - Chapter 1
   - Chapter 2-3
 - Summary
+
+
+### Probability
+概率论 ｜ MA215 ｜ 2019Autumn
+- Course notes
+    - Chapter 1-4
+    - Chapter 5
+- Exercise class notes
  
